@@ -1,0 +1,22 @@
+{
+  "name": "sv_test_gulp_stepbystep",
+  "version": "1.0.0",
+  "description": "gulp.js을 시작하기 위해 필요한 가장 기본적인 사용 방법들을 정리했습니다.\r ![gulp](./gulp01.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eu81273/gulp-step-by-step.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eu81273/gulp-step-by-step/issues"
+  },
+  "homepage": "https://github.com/eu81273/gulp-step-by-step#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
